@@ -1,0 +1,30 @@
+ /* web site er font er style uses */
+ body{ font-family: 'Open Sans', sans-serif;
+}
+ /* /nav related stayle */
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+span{
+    color:#FD6E0A ;
+}
+.nav-mary{
+color: #181818;
+font-size: 45px;
+font-weight: 800;  
+}
+nav>ul{
+    display: flex;
+    list-style: none;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 50px;
+}
+.btn{
+border-radius: 5px;
+background: #FD6E0A;
+}
